@@ -4,6 +4,7 @@
   "displayName": "Tsoding Theme",
   "description": "A dark theme based on Tsoding's Emacs theme for VSCode",
   "version": "1.0.0",
+  "icon": "icons/tsoding.jpg",
   "repository": {
     "type": "git",
     "url": ""
