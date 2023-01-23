@@ -1,3 +1,5 @@
+<br>
+
 <div align="center">
       <img src="icons/tsoding.jpg">
 </div>
@@ -27,4 +29,4 @@ This is the same font Tsoding uses in Emacs.
 
 ### Suggestions
 
-If you have any suggestions for the further development of this theme, please feel free to open an issue under the `suggestion` tag.
+If you have any suggestions for the further development of this theme, please feel free to [open an issue](https://github.com/JoaoAJMatos/Tsoding-Color-Theme/issues/new) under the `suggestion` label.
