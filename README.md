@@ -12,6 +12,14 @@
 
 This theme is an adaptation of [Tsoding-Color-Theme-unofficial](https://github.com/BasisDeveloper/Tsoding-Color-Theme-unofficial) by BasisDeveloper.
 
+### Installation
+
+1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
+2. Search for `Tsoding Theme`
+3. Click **Install** to install it.
+
+Or click [this link](vscode:extension/JoaoAJMAtos.tsoding-theme) to install it directly from the marketplace.
+
 ## Screenshots
 
 <div align="center">
