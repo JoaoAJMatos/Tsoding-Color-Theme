@@ -1,0 +1,27 @@
+{
+  "name": "tsoding-theme",
+  "publisher": "JoaoAJMatos",
+  "displayName": "Tsoding Theme",
+  "description": "A dark theme based on Tsoding's Emacs theme for VSCode",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tsoding Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tsoding Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
