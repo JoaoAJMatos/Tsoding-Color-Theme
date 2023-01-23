@@ -1,16 +1,30 @@
-# tsoding-theme README
+<div align="center">
+      <img src="icons/tsoding.jpg">
+</div>
 
-## Working with Markdown
+<hr>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+# Tsoding Color Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+[Tsoding's](https://www.youtube.com/@TsodingDaily) __new__ color theme for Visual Studio Code.
 
-## For more information
+This theme is an adaptation of [Tsoding-Color-Theme-unofficial](https://github.com/BasisDeveloper/Tsoding-Color-Theme-unofficial) by BasisDeveloper.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshots
 
-**Enjoy!**
+<div align="center">
+      <img src="screenshots/Tsoding-Theme-1.png">
+      <img src="screenshots/Tsoding-Theme-2.png">
+</div>
+
+### Recommendations
+
+For the best experience, I recommend using the following text font:
+
+`Ubuntu Mono`
+
+This is the same font Tsoding uses in Emacs.
+
+### Suggestions
+
+If you have any suggestions for the further development of this theme, please feel free to open an issue under the `suggestion` tag.
