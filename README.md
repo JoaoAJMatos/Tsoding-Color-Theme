@@ -18,7 +18,7 @@ This theme is an adaptation of [Tsoding-Color-Theme-unofficial](https://github.c
 2. Search for `Tsoding Theme`
 3. Click **Install** to install it.
 
-Or click [this link](vscode:extension/JoaoAJMAtos.tsoding-theme) to install it directly from the marketplace.
+Or click [this link](https://marketplace.visualstudio.com/items?itemName=JoaoAJMAtos.tsoding-theme) to install it directly from the marketplace.
 
 ## Screenshots
 
