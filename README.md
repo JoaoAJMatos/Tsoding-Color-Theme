@@ -23,17 +23,17 @@ Or click [this link](https://marketplace.visualstudio.com/items?itemName=JoaoAJM
 ## Screenshots
 
 <div align="center">
-      <img src="screenshots/Tsoding-Theme-1.png">
-      <img src="screenshots/Tsoding-Theme-2.png">
+      <img src="screenshots/TsodingTheme1.png">
+      <img src="screenshots/TsodingTheme2.png">
 </div>
 
 ### Recommendations
 
 For the best experience, I recommend using the following text font:
 
-`Ubuntu Mono`
+`Iosevka`
 
-This is the same font Tsoding uses in Emacs.
+This is the same font Tsoding uses in Emacs. You can find it [here](https://github.com/be5invis/Iosevka) on GitHub.
 
 ### Suggestions
 
